@@ -1,0 +1,15 @@
+C:\Users\hersh\DIO\C#\Desafio_CS\hospedagem\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.exe
+C:\Users\hersh\DIO\C#\Desafio_CS\hospedagem\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.deps.json
+C:\Users\hersh\DIO\C#\Desafio_CS\hospedagem\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\Users\hersh\DIO\C#\Desafio_CS\hospedagem\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\Users\hersh\DIO\C#\Desafio_CS\hospedagem\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\Users\hersh\DIO\C#\Desafio_CS\hospedagem\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hersh\DIO\C#\Desafio_CS\hospedagem\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Users\hersh\DIO\C#\Desafio_CS\hospedagem\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Users\hersh\DIO\C#\Desafio_CS\hospedagem\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\hersh\DIO\C#\Desafio_CS\hospedagem\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.sourcelink.json
+C:\Users\hersh\DIO\C#\Desafio_CS\hospedagem\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\Users\hersh\DIO\C#\Desafio_CS\hospedagem\trilha-net-explorando-desafio\obj\Debug\net6.0\refint\DesafioProjetoHospedagem.dll
+C:\Users\hersh\DIO\C#\Desafio_CS\hospedagem\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\Users\hersh\DIO\C#\Desafio_CS\hospedagem\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\Users\hersh\DIO\C#\Desafio_CS\hospedagem\trilha-net-explorando-desafio\obj\Debug\net6.0\ref\DesafioProjetoHospedagem.dll

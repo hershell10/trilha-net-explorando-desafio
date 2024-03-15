@@ -1,4 +1,4 @@
-namespace DesafioProjetoHospedagem.Models;
+namespace netexplorandodesafio.Models;
 
 public class Pessoa
 {
